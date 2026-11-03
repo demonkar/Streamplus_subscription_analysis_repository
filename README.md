@@ -142,5 +142,5 @@ Email: 31shahshah31@gmail.com
 
 ---
 
-If you found this project useful, consider giving it a star ⭐
+
 
